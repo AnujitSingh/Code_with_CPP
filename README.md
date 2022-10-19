@@ -1,4 +1,4 @@
-# Code-with-C++-
+# Code-with-C++
 
 C++ basics for beginners..
 
