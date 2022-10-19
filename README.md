@@ -1,5 +1,5 @@
-# Code-with-C-
+# Code-with-C++-
 
-Cop basics for beginners..
+C++ basics for beginners..
 
 Evolve and grow together 
