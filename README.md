@@ -1,5 +1,5 @@
 # Code-with-C++
 
-C++ basics for beginners..
+C++ coding
 
 Evolve and grow together 
